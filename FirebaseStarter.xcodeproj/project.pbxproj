@@ -41,7 +41,7 @@
 		83987185207A700400F8EB30 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8398718C207A700400F8EB30 /* FirebaseStarterTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FirebaseStarterTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		83987190207A700400F8EB30 /* FirebaseStarterTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirebaseStarterTests.swift; sourceTree = "<group>"; };
-		83987192207A700400F8EB30 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		83987192207A700400F8EB30 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = Info.plist; path = FirebaseStarterTests/Info.plist; sourceTree = SOURCE_ROOT; };
 		83987197207A700400F8EB30 /* FirebaseStarterUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FirebaseStarterUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8398719B207A700400F8EB30 /* FirebaseStarterUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirebaseStarterUITests.swift; sourceTree = "<group>"; };
 		8398719D207A700400F8EB30 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = Info.plist; path = FirebaseStarterUITests/Info.plist; sourceTree = SOURCE_ROOT; };
@@ -111,7 +111,6 @@
 			isa = PBXGroup;
 			children = (
 				83987190207A700400F8EB30 /* FirebaseStarterTests.swift */,
-				83987192207A700400F8EB30 /* Info.plist */,
 			);
 			path = FirebaseStarterTests;
 			sourceTree = "<group>";
@@ -151,6 +150,7 @@
 		83A37377207A7248004C8F52 /* Supporting */ = {
 			isa = PBXGroup;
 			children = (
+				83987192207A700400F8EB30 /* Info.plist */,
 				83987184207A700400F8EB30 /* LaunchScreen.storyboard */,
 				83987182207A700400F8EB30 /* Assets.xcassets */,
 				8398719D207A700400F8EB30 /* Info.plist */,
