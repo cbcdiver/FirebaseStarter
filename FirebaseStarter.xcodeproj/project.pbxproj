@@ -101,8 +101,8 @@
 				8398717B207A700300F8EB30 /* AppDelegate.swift */,
 				839871AF207A704600F8EB30 /* Model */,
 				839871B0207A705A00F8EB30 /* View */,
-				83A37377207A7248004C8F52 /* Supporting */,
 				839871B1207A706A00F8EB30 /* Controller */,
+				83A37377207A7248004C8F52 /* Supporting */,
 			);
 			path = FirebaseStarter;
 			sourceTree = "<group>";
